@@ -4,5 +4,5 @@ namespace Minion\Service;
 
 class Swarm
 {
-    
+
 }
